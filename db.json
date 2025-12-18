@@ -1,0 +1,12 @@
+{
+  "car": [
+    { "id": 1, "name": "BMW" },
+    { "id": 2, "name": "Toyota" },
+    { "id": 3, "name": "Mercedes" }
+  ],
+  "flower": [
+    { "id": 1, "name": "Rose" },
+    { "id": 2, "name": "Tulip" },
+    { "id": 3, "name": "Sunflower" }
+  ]
+}
